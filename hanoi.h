@@ -2,5 +2,5 @@
 #include <iostream>
 
 int InputFromUser();
-void Move(char from, char to);
-void Hanoi(int n, char from, char temp, char to);
+int Move(char from, char to, int n, int count);
+int Hanoi(int n, char from, char temp, char to, int count);
