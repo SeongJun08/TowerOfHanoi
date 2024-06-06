@@ -18,5 +18,13 @@
     <ClCompile Include="TowerOfHanoi.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="hanoi.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hanoi.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
